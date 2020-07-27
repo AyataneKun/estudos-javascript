@@ -1,0 +1,19 @@
+{
+  "name": "node-hapijs",
+  "version": "1.0.0",
+  "description": "Exemplo de API em Node.js usando Hapi.js",
+  "scripts": {
+    "start": "npx babel-node src"
+  },
+  "dependencies": {
+    "boom": "^7.3.0",
+    "hapi": "^18.1.0",
+    "joi": "^14.3.1",
+    "mongoose": "5.9.23"
+  },
+  "devDependencies": {
+    "@babel/core": "7.10.4",
+    "@babel/node": "7.10.4",
+    "@babel/preset-env": "7.10.4"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "aula_node_postgres",
+  "version": "1.0.0",
+  "description": "**Repositório utilizado na aula de introdução ao Node com Postgres e Sequelize**",
+  "main": "index.js",
+  "dependencies": {
+    "pg": "^8.2.2",
+    "sequelize": "^6.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gmeneguz/intro_node_pg_sequelize.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gmeneguz/intro_node_pg_sequelize/issues"
+  },
+  "homepage": "https://github.com/gmeneguz/intro_node_pg_sequelize#readme"
+}
