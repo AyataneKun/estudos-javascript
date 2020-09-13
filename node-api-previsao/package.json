@@ -19,6 +19,6 @@
     "@types/node-fetch": "^2.5.7",
     "commander": "5.1.0",
     "esm": "3.2.25",
-    "node-fetch": "2.6.0"
+    "node-fetch": "2.6.1"
   }
 }
